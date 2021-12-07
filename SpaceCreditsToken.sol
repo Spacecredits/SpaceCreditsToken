@@ -11,7 +11,7 @@ LP LOCKED AND OWNERSHIP RENOUNCED
 		
 Community-driven token with very small tax.
 
-Just hold $SpaceCredits, your token amount will grow automatically. 2% reflection 4% liquidity
+Just hold $SpaceCredits, your token amount will grow automatically.
 
 https://t.me/SpaceCreditsToken
 
